@@ -1,4 +1,7 @@
-{
+import { defineConfig } from "eslint/config";
+
+export default defineConfig([
+  {
   "settings": {
     "react": {
       "createClass": "createReactClass", // Regex for Component Factory to use,
@@ -41,3 +44,4 @@
     ]
   }
 }
+]);
