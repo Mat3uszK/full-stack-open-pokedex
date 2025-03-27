@@ -1,6 +1,3 @@
-import { defineConfig } from "eslint/config";
-
-export default defineConfig([
 {
   "settings": {
     "react": {
@@ -44,4 +41,3 @@ export default defineConfig([
     ]
   }
 }
-]);
