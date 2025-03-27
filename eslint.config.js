@@ -1,5 +1,4 @@
-export default defineConfig([
-  {
+{
   "settings": {
     "react": {
       "createClass": "createReactClass", // Regex for Component Factory to use,
@@ -42,4 +41,3 @@ export default defineConfig([
     ]
   }
 }
-]);
